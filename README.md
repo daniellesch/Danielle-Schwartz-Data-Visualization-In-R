@@ -1,2 +1,2 @@
 # Data-Visualization-In-R
-For course EEB 6485
+Figures and materials for UConn course EEB 6485: Seminar in Comparative Biology
